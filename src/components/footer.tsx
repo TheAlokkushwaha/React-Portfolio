@@ -23,7 +23,7 @@ const footer = () => {
           <div className="flex items-center gap-5">
             <Link
               target="_blank"
-              href="https://github.com/TheAlokkushwaha/Portfolio"
+              href="https://github.com/TheAlokkushwaha/React-Portfolio"
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
             >
               <IoStar />
@@ -31,7 +31,7 @@ const footer = () => {
             </Link>
             <Link
               target="_blank"
-              href="https://github.com/TheAlokkushwaha/Portfolio/fork"
+              href="https://github.com/TheAlokkushwaha/React-Portfolio/fork"
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
             >
               <CgGitFork />
