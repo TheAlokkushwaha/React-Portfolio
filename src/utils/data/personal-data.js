@@ -11,5 +11,5 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/thealokkushwaha/',
   twitter: 'https://twitter.com/thealokkushwah',
   leetcode: "https://leetcode.com/thealokkushwaha10/",
-  resume: "https://drive.google.com/file/d/15Q3--dTavcpPf7X0TM23kCDwtWzE2cLU/view?usp=drivesdk"
+  resume: "https://drive.google.com/drive/folders/15O3p4H7VRbz3UaZxhNY31LLQh_pZsKS5"
 }
